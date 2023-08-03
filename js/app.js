@@ -1,4 +1,4 @@
-import "../scss/app.scss";
+// import "../scss/app.scss";
 
 // AdminKit (required)
 import "./modules/bootstrap";
@@ -7,10 +7,10 @@ import "./modules/theme";
 import "./modules/feather";
 
 // Charts
-import "./modules/chartjs";
+// import "./modules/chartjs";
 
 // Forms
-import "./modules/flatpickr";
+// import "./modules/flatpickr";
 
 // Maps
-import "./modules/vector-maps";
+// import "./modules/vector-maps";
